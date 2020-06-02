@@ -1,4 +1,5 @@
 ## Talks 
+Here are the presentations of our works. 
 **2020**
 - **Associative Alignment for Few-shot Image Classification.**\
 	_Université Laval, Intelligence and Data Institute (IID) Seminar._  
@@ -14,8 +15,16 @@
 <br/>
 
 ## Other Presentations
+Here are the other presentations inside group readings and meetings.  
 
-
+- **Recurrent Neural Network: RNN, LSTM **\
+	_Université Laval, group meeting, 2017._  
+	[(pdf)](https://github.com/ArmanAfrasiyabi/Ph.D-reports-talks-presentations/blob/master/presentations/Associative%20Alignmentfor%20Few-Shot%20Image%20Classification.pdf) 
+	
+	
+- **Neural Turing Machines **\
+	_Université Laval, reading group, 2018._  
+	[(pdf)](https://github.com/ArmanAfrasiyabi/Ph.D-reports-talks-presentations/blob/master/presentations/Associative%20Alignmentfor%20Few-Shot%20Image%20Classification.pdf) 
 
 
 
