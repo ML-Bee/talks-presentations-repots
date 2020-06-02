@@ -12,9 +12,9 @@ Find more on my Ph.D. report, exam and presentations in this repository.
 
 
 # Talks
-**2020**
-	**Associative Alignment for Few-shot Image Classification.**
-	_Université Laval, Intelligence and Data Institute (IID) Seminar._
+**2020**\
+	**Associative Alignment for Few-shot Image Classification.**\
+	_Université Laval, Intelligence and Data Institute (IID) Seminar._ 
 
 
 
