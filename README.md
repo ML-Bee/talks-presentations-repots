@@ -1,5 +1,5 @@
 ## Talks
-**2020**\
+**2020**
 - **Associative Alignment for Few-shot Image Classification.**\
 	_Université Laval, Intelligence and Data Institute (IID) Seminar._  
 	[(pdf)](https://github.com/ArmanAfrasiyabi/Ph.D-reports-talks-presentations/blob/master/presentations/Associative%20Alignmentfor%20Few-Shot%20Image%20Classification.pdf)[(paper)](https://arxiv.org/abs/1912.05094) 
@@ -14,15 +14,6 @@
 <br/>
 
 ## Other Presentations 
-
-
-
-
-
-
-
-
-
 
 
 
