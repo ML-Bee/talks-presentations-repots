@@ -18,18 +18,15 @@ Here are the presentations of our works.
 Here are the other presentations inside group readings and meetings. 
 
 - **Advances in few-shot learning**\
-	_Université Laval, IFT 6501(course invited talk), 2020._  
-	[(pdf)](https://github.com/ML-Bee/talks-presentations-repots/blob/master/presentations/26-6-2020%20advances%20in%20few-shot%20learning%20.pdf) 
+	_Université Laval, IFT 6501(course invited talk), 2020._ [(pdf)](https://github.com/ML-Bee/talks-presentations-repots/blob/master/presentations/26-6-2020%20advances%20in%20few-shot%20learning%20.pdf) 
 
 
 - **Recurrent Neural Network: RNN, LSTM**\
-	_Université Laval, group meeting, 2017._  
-	[(pdf)](https://github.com/ArmanAfrasiyabi/Ph.D-reports-talks-presentations/blob/master/presentations/Associative%20Alignmentfor%20Few-Shot%20Image%20Classification.pdf) 
+	_Université Laval, group meeting, 2017._ [(pdf)](https://github.com/ArmanAfrasiyabi/Ph.D-reports-talks-presentations/blob/master/presentations/Associative%20Alignmentfor%20Few-Shot%20Image%20Classification.pdf) 
 	
 	
 - **Neural Turing Machines: NTM and DNC**\
-	_Université Laval, reading group, 2018._  
-	[(pdf)](https://github.com/ArmanAfrasiyabi/Ph.D-reports-talks-presentations/blob/master/presentations/Associative%20Alignmentfor%20Few-Shot%20Image%20Classification.pdf) 
+	_Université Laval, reading group, 2018._ [(pdf)](https://github.com/ArmanAfrasiyabi/Ph.D-reports-talks-presentations/blob/master/presentations/Associative%20Alignmentfor%20Few-Shot%20Image%20Classification.pdf) 
 
 
 
