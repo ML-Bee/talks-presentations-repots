@@ -15,7 +15,12 @@ Here are the presentations of our works.
 <br/>
 
 ## Other Presentations
-Here are the other presentations inside group readings and meetings.  
+Here are the other presentations inside group readings and meetings. 
+
+- **Advances in few-shot learning:**\
+	_Université Laval, group meeting, 2020._  
+	[(pdf)](https://github.com/ArmanAfrasiyabi/Ph.D-reports-talks-presentations/blob/master/presentations/Associative%20Alignmentfor%20Few-Shot%20Image%20Classification.pdf) 
+
 
 - **Recurrent Neural Network: RNN, LSTM**\
 	_Université Laval, group meeting, 2017._  
