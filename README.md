@@ -17,8 +17,8 @@ Here are the presentations of our works.
 ## Other Presentations
 Here are the other presentations inside group readings and meetings. 
 
-- **Advances in few-shot learning:**\
-	_Université Laval, group meeting, 2020._  
+- **Advances in few-shot learning**\
+	_Université Laval, Seminar, 2020._  
 	[(pdf)](https://github.com/ML-Bee/talks-presentations-repots/blob/master/presentations/26-6-2020%20advances%20in%20few-shot%20learning%20.pdf) 
 
 
